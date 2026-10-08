@@ -1,6 +1,6 @@
 {
 	"appId": "com.masrofy.app",
-	"appName": "Masrofy",
+	"appName": "مصروفي",
 	"webDir": "dist",
 	"server": {
 		"androidScheme": "https"
